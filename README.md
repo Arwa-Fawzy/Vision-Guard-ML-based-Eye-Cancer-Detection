@@ -11,9 +11,7 @@ The application will have two main parts: eye detection by camera phone and radi
 ## Prior solutions:
 Estimated by IEEE and Harvard University, eye cancer is a challenge that was solved by a number of deep learning models. Eventually, the profit involves the online payment while registering an account and it has an expiration date to be updated. Our mission and vision are to aid children and cancer warriors, compete with medical device performance, and enhance prior deep learning models' accuracy. In recent years, there have been significant advancements in artificial intelligence (AI) and computer vision technologies, leading to the development of various applications aimed at detecting eye cancer. However, these applications have not been able to accurately detect all types of eye cancer. 
 
-
-![image](https://github.com/Arwa-Fawzy/Vision-Guard-for-Eye-Cancer-Detection/assets/101527083/3893e5ff-7db6-4368-a6ff-ce8bc57bef2f)
-
+![image](https://github.com/Arwa-Fawzy/Vision-Guard-for-Eye-Cancer-Detection/assets/101527083/4005e0e1-2035-490c-99b1-b6df7e0b4002)
 
 Most of the previous AI solutions were designed to detect specific types of eye cancer within specific age ranges, and therefore lacked the ability to classify and differentiate between different types of eye cancer accurately. For instance, previous AI-based solutions could detect intraocular melanoma in adults or retinoblastoma in children but not both. This limitation poses a significant challenge in the early detection and diagnosis of eye cancer, leading to late detection and, in some cases, a total loss of vision. As a result, there is a growing need for the development of an AI-based application that can accurately detect and classify different types of eye cancer, thereby aiding early detection and improving patient outcomes. This application aims to solve two critical problems in cancer detection. Firstly, it seeks to prevent late detections that may result in severe risks to patients.
 
