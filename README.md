@@ -76,7 +76,7 @@ The project is divided into 4 parts:
 
 ![image](https://github.com/Arwa-Fawzy/Vision-Guard-for-Eye-Cancer-Detection/assets/101527083/22e5ac27-d3f4-49dd-a552-641f660a62c9)
 
-Third model (for Radiology images):
+### Third model (for Radiology images):
 * It’s based on fine-tuning a pre-trained model called vvg16.
 **Note: VGG16 is a convolutional neural network model used for image recognition.** 
 * The model architecture is shown in the figure below.
@@ -87,7 +87,7 @@ Third model (for Radiology images):
 
 ## Project Flowchart 
 
-![image](https://github.com/Arwa-Fawzy/Vision-Guard-for-Eye-Cancer-Detection/assets/101527083/92d4cf9e-2a05-4e8b-bddb-6dd4e3fe4246)
+![image](https://github.com/Arwa-Fawzy/Vision-Guard-for-Eye-Cancer-Detection/assets/101527083/d593ac57-8c71-4c16-855c-a508381f7d9f)
 
 ## Credits
 #### This project was created by 
