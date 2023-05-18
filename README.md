@@ -85,7 +85,7 @@ The project is divided into 4 parts:
 
 ## Project Flowchart 
 
-![image](https://github.com/Arwa-Fawzy/Vision-Guard-for-Eye-Cancer-Detection/assets/101527083/d593ac57-8c71-4c16-855c-a508381f7d9f)
+![image](https://github.com/Arwa-Fawzy/Vision-Guard-for-Eye-Cancer-Detection/assets/101527083/77b34708-399d-45ae-8f7c-5c8f2a0abe6f)
 
 ## Credits
 #### This project was created by 
